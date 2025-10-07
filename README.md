@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nexly Data Solutions
+# Nexly Data Solutions 
 
 **Driving Your Business to the Next Level**
 
