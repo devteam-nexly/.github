@@ -1,130 +1,87 @@
 <div align="center">
+  <img src="https://www.nexlygroup.com/og-image.png" alt="Nexly Group" width="100%" style="max-width:900px"/>
+</div>
 
-# Nexly Group Solutions 
+<br/>
 
-**Driving Your Business to the Next Level**
+<div align="center">
 
-*We connect strategy, technology, and intelligence to transform data into decisions*
+# Nexly Group
 
-[![Website](https://img.shields.io/badge/🌐_nexly.com-6366f1?style=flat-square)](https://www.nexlydata.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexly-data-solutions/)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@nexly.com)
+**Data engineering, applied AI & software — from strategy to production.**
+
+*Less promise. More results.*
 
 </div>
 
 ---
 
-## About Nexly
+## Who We Are
 
-We specialize in **digital transformation** and **strategic data insights**. We believe that well-crafted data doesn't just inform—it drives growth.
+Nexly Group is a Brazilian technology group operating across three complementary fronts, delivering end-to-end solutions that combine data engineering, software development, and applied AI research.
 
-With a collaborative and personalized approach, we help organizations see beyond the numbers, revealing opportunities that make a real difference in business.
-
-### What We Do
-
-**Data Analytics** — Extracting value from complex information
-
-**Data Engineering** — Building robust and scalable data pipelines
-
-**Artificial Intelligence** — Implementing ML and AI solutions
-
-**Digital Transformation** — Modernizing processes and systems
+We don't consult. We build and operate.
 
 ---
 
-## Our Values
+## Our Three Fronts
 
-**Innovation** — Embracing emerging technologies and creative solutions
-
-**Excellence** — Committed to code quality and best practices
-
-**Collaboration** — Building together through teamwork and transparency
-
-**Results** — Focused on client success and measurable impact
+| | Front | Focus |
+|---|---|---|
+| ⚙️ | **Nexly Data** | Data engineering, software systems and applied AI for production environments |
+| 🎨 | **Nexly Studio** | E-commerce, branding and creative operations powered by AI |
+| 🔬 | **Nexly Labs** | Applied research and proprietary products with continuous validation |
 
 ---
 
-## Get in Touch
+## How We Work
 
-Looking to transform data into strategic decisions?
+```
+Diagnosis → Solution Design → Development → Operation
+```
 
-**Email:** contact@nexly.com
-
-**Website:** [nexly.com](https://www.nexlydata.com/)
-
-**LinkedIn:** [Connect with us](https://www.linkedin.com/company/nexly-data-solutions/)
+Clear scope. Disciplined execution. Continuous evolution.
 
 ---
 
-<div align="center">
+## Our Stack
 
-*Simplifying data complexity since 2025*
+**Languages & Runtimes**
 
-⭐ Star our repositories if you find them useful
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</div>
-<div align="center">
+**Infrastructure & Cloud**
 
-# Nexly Data Solutions
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Driving Your Business to the Next Level**
+**Data & AI**
 
-*We connect strategy, technology, and intelligence to transform data into decisions*
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
-[![Website](https://img.shields.io/badge/🌐_nexly.com-6366f1?style=flat-square)](https://www.nexlydata.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexly-data-solutions/)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@nexly.com)
+**Frameworks**
 
-</div>
-
----
-
-## About Nexly
-
-We specialize in **digital transformation** and **strategic data insights**. We believe that well-crafted data doesn't just inform—it drives growth.
-
-With a collaborative and personalized approach, we help organizations see beyond the numbers, revealing opportunities that make a real difference in business.
-
-### What We Do
-
-**Data Analytics** — Extracting value from complex information
-
-**Data Engineering** — Building robust and scalable data pipelines
-
-**Artificial Intelligence** — Implementing ML and AI solutions
-
-**Digital Transformation** — Modernizing processes and systems
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
-## Our Values
+## Work With Us
 
-**Innovation** — Embracing emerging technologies and creative solutions
+We take on projects where there's a real problem, a clear scope, and commitment to execution.
 
-**Excellence** — Committed to code quality and best practices
-
-**Collaboration** — Building together through teamwork and transparency
-
-**Results** — Focused on client success and measurable impact
-
----
-
-## Get in Touch
-
-Looking to transform data into strategic decisions?
-
-**Email:** contact@nexly.com
-
-**Website:** [nexly.com](https://www.nexlydata.com/)
-
-**LinkedIn:** [Connect with us](https://www.linkedin.com/company/nexly-data-solutions/)
+🌐 [nexlygroup.com](https://www.nexlygroup.com)
+💼 [LinkedIn](https://www.linkedin.com/company/nexlygroup)
+📩 joao.saramago@nexlydata.com
 
 ---
 
 <div align="center">
-
-*Simplifying data complexity since 2025*
-
-⭐ Star our repositories if you find them useful
-
+  <sub>Niterói, Rio de Janeiro, Brazil</sub>
 </div>
